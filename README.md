@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tamima Mostafa Monisha</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
+<a href="" target="_blank"><img src="/image/img.jpg" alt=""></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimamostafamonisha&label=Profile%20views&color=0e75b6&style=flat" alt="tamimamostafamonisha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimamostafamonisha" alt="tamimamostafamonisha" /></a> </p>
